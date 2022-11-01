@@ -1,0 +1,27 @@
+html {
+    font-size: 30px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: 'Quicksand', sans-serif;
+    background-color: #9EFFEE;
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+    border: 5px solid black;
+    margin: 0;
+  }
+  p1, li {
+    font-size: 25px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  body {
+    margin: 5% 0;
+  }
+  ol {
+    background-color: #F93E3E;
+    width: 300px;
+  }
+  img {
+    display: block;
+    margin-bottom: 0;
+  }
